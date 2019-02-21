@@ -25,7 +25,7 @@ eureka:
   
 ---
 spring:
-  profiles: lab-4-verb
+    profiles: lab-4-verb
 words: ran,knew,had,saw,bought
 
 ---
